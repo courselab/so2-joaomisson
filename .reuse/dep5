@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: so2-joaomisson
+Upstream-Contact: João Misson <joao.misson@gmail.com>
+Source: https://github.com/courselab/so2-joaomisson.git
+
+Files: */.dist
+Copyright: João Misson <joao.misson@gmail.com>
+License: CC0-1.0
