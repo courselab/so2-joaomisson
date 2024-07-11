@@ -1,6 +1,6 @@
 /*
  *    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
- *    SPDX-FileCopyrightText: 2024 joaomisson <joao.misosn@gmail.com>
+ *    SPDX-FileCopyrightText: 2024 joaomisson <joao.missonn@gmail.com>
  *   
  *    SPDX-License-Identifier: GPL-3.0-or-later
  *
